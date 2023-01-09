@@ -9,7 +9,7 @@ import os
 
 
 # tg_bot_token = "5911163528:AAEveMEcq_TVmkVY9UArlf39d87zZ7rr5cI"
-os.environ["REPLICATE_API_TOKEN"] = "3ec86c85a469f27f9cecac6136a6ab37819ebd82"
+os.environ["REPLICATE_API_TOKEN"] = "0d7985f7e46bac586d0140c8fee6127dff4ac528"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot)
